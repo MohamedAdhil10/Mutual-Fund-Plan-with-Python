@@ -21,8 +21,8 @@ This project is an interactive tool developed with Python and Streamlit to analy
 ## Project Structure
 ```
 ├── Mutual_Fund.py  # Main Python script
-├── nifty50_closing_prices.csv  # Data file
-└── README.md  # Project documentation
+├── README.md  # Project documentation
+└── nifty50_closing_prices.csv  # Data file
 ```
 
 ## Installation
